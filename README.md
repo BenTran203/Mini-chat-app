@@ -63,12 +63,5 @@ npm start
 - The token is stored in `localStorage`.
 - All protected routes require the token.
 
-## 📹 **Demo Video:** [Insert Video Link]
-## 📂 **Jira Card:** [Insert Jira Link]
-
-## 📝 **Contributors:**
-- 🚀 [Your Name]
-- 🎨 [Other Team Members]
-
 ✅ **Project Completed:** 🎉 Ready for Submission! 🚀
 
